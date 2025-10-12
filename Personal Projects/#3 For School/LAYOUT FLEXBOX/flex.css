@@ -1,0 +1,15 @@
+body{ 
+    min-height: 400px;
+    border: 8px solid black;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly; /* !flex-START, flex-END, CENTER. Arrange Box! !space-BETWEEN, space-AROUND, space-EVENLY! */
+    align-items: center; /* ^^^ */
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    font-size: 20pt;
+}

@@ -1,0 +1,27 @@
+
+/* (BG Color, Text Alignment, Measurement) */
+h1 {
+    background-color: aqua;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+
+}
+
+/* (BG Colors, and Measurement) */
+div {
+    background-color:bisque;
+    width: 200px;
+    height: 200px;
+    padding: 100px;
+    margin: 100px;
+
+}
+
+
+/* (Font Configurations) */
+div1 {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+
+}
